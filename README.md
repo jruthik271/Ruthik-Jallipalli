@@ -25,6 +25,7 @@ I’m a B.Tech (AI & ML) student at Aditya University, passionate about building
 - 🌱 Learning backend & system design  
 - 🎯 Goal: Become a full-stack developer  
 - ⚡ Love solving problems
+- 👯 I’m looking to collaborate on exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing
 
 
 ## 📫 Connect with Me
